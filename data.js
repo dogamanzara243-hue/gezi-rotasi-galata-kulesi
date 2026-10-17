@@ -5,7 +5,7 @@ const SPOT_DATA = {
   category: "Tarihi Kule & Müze",
   theme: "history",
   hero: {
-    coverImage: "https://images.unsplash.com/photo-1527838832700-5059252407fa?auto=format&fit=crop&w=1600&q=80&fm=webp",
+    coverImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-CHe5hKW0zzaYeJxRhWsim-uaxG2RyjceezTzXOmuQ&s=10",
     badge: "UNESCO Dünya Mirası Adayı",
     stats: [
       { label: "Yapım Yılı", value: "1348 (Ceneviz)" },
